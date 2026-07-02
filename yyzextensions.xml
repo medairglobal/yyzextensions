@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AddressBook><Contact>
 <FirstName>Vlad</FirstName>
-<LastName>Luchnikov</LastName>
+<LastName></LastName>
 <Phone>
 <phonenumber>102</phonenumber>
 </Phone>
 </Contact><Contact>
 <FirstName>Shannon</FirstName>
-<LastName>Nguyen</LastName>
+<LastName></LastName>
 <Phone>
 <phonenumber>101</phonenumber>
 </Phone>
