@@ -41,4 +41,16 @@
 <Phone>
 <phonenumber>107</phonenumber>
 </Phone>
+</Contact><Contact>
+<FirstName></FirstName>
+<LastName></LastName>
+<Phone>
+<phonenumber>111</phonenumber>
+</Phone>
+</Contact><Contact>
+<FirstName></FirstName>
+<LastName></LastName>
+<Phone>
+<phonenumber></phonenumber>
+</Phone>
 </Contact></AddressBook>
